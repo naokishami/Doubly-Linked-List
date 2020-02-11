@@ -16,3 +16,6 @@ Michael – 275, Tom – 150, Abe – 200.
 Output:
 Names & weights sorted(ascending) by name. : Abe – 200, Michael – 275, Tom - 150
 Names & weights sorted(ascending) by weight. : Tom – 150, Abe – 200, Michael - 275
+
+Name Sample Data:
+https://drive.google.com/file/d/1TGXNNJLymHGLY6RgE6qCgfJQtyxHZEjA/view
