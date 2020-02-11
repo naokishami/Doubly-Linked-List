@@ -1,6 +1,8 @@
 # Doubly-Linked-List
 
-# Class: Data Structures - Irvine Valley College Fall 2019
+Class: Data Structures - Irvine Valley College Fall 2019
+
+Description:
 
 Program Specification:
 1. Read data for names and weights for 15 people from the console where there is a name on a line followed by a weight on the next line, like in names.txt.
