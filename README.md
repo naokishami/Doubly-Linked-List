@@ -1,5 +1,7 @@
 # Doubly-Linked-List
 
+Class: Data Structures. Irvine Valley College Fall 2019
+
 Program Specification:
 1. Read data for names and weights for 15 people from the console where there is a name on a line followed by a weight on the next line, like in names.txt.
 2. Your program will build a list for the data maintained in ascending order based on both name and weight via a doubly linked list.
